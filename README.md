@@ -19,7 +19,7 @@
  ```
         dependencies {
         ...
-        compile 'com.github.lygttpod:RxHttpUtils:2.3.3'
+        implementation 'com.github.shuqingcc:RxHttpUtils:2.3.3'
         }
 ```
 
