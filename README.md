@@ -525,37 +525,7 @@ RxUrlManager.getInstance().clear().setUrl("baseUrl");
 
 
 
-# [更新日志](https://github.com/lygttpod/RxHttpUtils/releases)
-
-# 意见反馈
-
-<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=33dacdd367ca0b5a9ba96a196a6658666b442b3ec528850e377d50f3d607f26b"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="STV&amp;RxHttp交流群" title="STV&amp;RxHttp交流群"></a>
-
-或者手动加QQ群：688433795
-
-如果遇到问题或者好的建议，请反馈到：[issue](https://github.com/lygttpod/RxHttpUtils/issues)、[lygttpod@163.com](mailto:lygttpod@163.com) 或者[lygttpod@gmail.com](mailto:lygttpod@gmail.com)
-
-如果觉得对你有用的话，点一下右上的星星赞一下吧!
+# [感谢作者](https://github.com/lygttpod/RxHttpUtils)
 
 
-# [**Demo下载地址**](https://fir.im/dzm1) 或者扫码下载demo
-
-<div  align="center">   
-<img src="https://github.com/lygttpod/RxHttpUtils/blob/2.x/rxhttputils.png" width = "480" height = "480" alt="Demo下载地址" align=center /></div>
-</div>
-
-# License
-         Copyright 2019 Allen
-
-        Licensed under the Apache License, Version 2.0 (the "License");
-        you may not use this file except in compliance with the License.
-        You may obtain a copy of the License at
-
-          http://www.apache.org/licenses/LICENSE-2.0
-
-        Unless required by applicable law or agreed to in writing, software
-        distributed under the License is distributed on an "AS IS" BASIS,
-        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-        See the License for the specific language governing permissions and
-        limitations under the License.
 
